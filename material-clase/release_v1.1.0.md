@@ -13,4 +13,4 @@ La interfaz muestra el promedio con dos decimales y la clasificación correspond
 Aplicación web estática compatible con navegadores modernos. Construcción validada con Node.js 24 LTS.
 
 ## URL del sistema
-`https://USUARIO.github.io/calculadora-calificaciones-cicd/`
+`https://GEOVANNY25.github.io/calculadora-calificaciones-cicd/`
